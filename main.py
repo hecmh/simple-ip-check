@@ -1,6 +1,5 @@
 import requests
 import folium as fl
-import os
 
 
 def getInfo(ip = '127.0.0.1'):
